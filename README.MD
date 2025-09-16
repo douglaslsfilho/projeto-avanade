@@ -43,11 +43,12 @@ O erro 500 no runProject precisa ser investigado para rodar o fluxo completo de 
 
 Tudo que salva no banco (projetos, descrição, chat) está funcionando.
 
-nome dos database e collection
-agent_management
+nome dos database e collection --
+database: agent_management
 agents
+|
 projects
 
-project_agents_db
+database: project_agents_db
 |
 projects
