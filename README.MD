@@ -45,10 +45,11 @@ Tudo que salva no banco (projetos, descrição, chat) está funcionando.
 
 nome dos database e collection --
 database: agent_management
-agents
 |
-projects
+collection:agents
+|
+collection:projects
 
 database: project_agents_db
 |
-projects
+collection:projects
